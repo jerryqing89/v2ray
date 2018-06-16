@@ -31,6 +31,10 @@ v2ray --config=<full path>
 
 https://github.com/v2ray/v2ray-core/blob/master/release/verify/official_release.asc
 
+## 下载 V2Ray
+* https://www.v2ray.com/chapter_00/install.html
+* https://github.com/v2ray/v2ray-core/releases
+
 ## 问题反馈
 
 * Github: https://github.com/v2ray/v2ray-core
